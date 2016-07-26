@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_simple_list.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\item_simple_list.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creditcertification.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_creditcertification.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addcard.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_addcard.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mycards.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_mycards.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_authentication.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_authentication.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bindcards.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_bindcards.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\completeinfo3.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\completeinfo3.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showinfo1.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_showinfo1.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trade_history.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_trade_history.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_personal_center.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\fragment_personal_center.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addcard2.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_addcard2.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_other_relaship.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\contact_other_relaship.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\repayrecord_listitem.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\repayrecord_listitem.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repayplan1.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_repayplan1.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myinfo.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_myinfo.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vertify_identify.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_vertify_identify.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repay3.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_repay3.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_status_bar_fill.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\item_status_bar_fill.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_relaship.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\contact_relaship.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applyloan.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_applyloan.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_activity.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\welcome_activity.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repay2.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_repay2.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_loan.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\fragment_loan.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regist.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_regist.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_completeinfo.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_completeinfo.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_log.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_log.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal_center.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_personal_center.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\evaluation_view.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\evaluation_view.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repay1.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_repay1.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applyrecord.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_applyrecord.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_repay.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\fragment_repay.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loan_1.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_loan_1.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\repay_history_listitem.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\repay_history_listitem.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_repayplan.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_repayplan.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\completeinfo2.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\completeinfo2.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_btnwithtext.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\view_btnwithtext.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_info.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\studioworkspace5\\QKJR_Demo1(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
+    }
+]

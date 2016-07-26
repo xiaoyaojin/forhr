@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_1e4cfdd66bc53af538a792bf1e9258973f71e4ec\classes.dex" />
+    </item>
+    <item
+        jar="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_816c67e0a271e2e3d0a272f77ff019121234a6d9\classes.dex" />
+    </item>
+    <item
+        jar="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_e0da4c51c799ddacc70c1b9c3420999a5172fa5a\classes.dex" />
+    </item>
+    <item
+        jar="C:\sdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_e9ba29f9a3d9da80572b4e927cee72d6e0b29e89\classes.dex" />
+    </item>
+    <item
+        jar="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_59a41fca7180bae013d2dddac165ca3c4e5c735b\classes.dex" />
+    </item>
+    <item
+        jar="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_34eb355ecd557c3572d2269714bef2e755c8782e\classes.dex" />
+    </item>
+    <item
+        jar="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_21b4eb58ac1e7d45a572fd7cc012ce4007e8bbd5\classes.dex" />
+    </item>
+    <item
+        jar="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_960bfdfdfb42ff2e8336e65f0fb800f7fb92f5f0\classes.dex" />
+    </item>
+    <item
+        jar="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d456a8be205dc7e03adaee6a56028fa75d9eab88">
+        <dex dex="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aa6a458e9d44a98c4be40a0971cf11ba26af28d5\classes.dex" />
+    </item>
+    <item
+        jar="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d57ed774bf3dc085acd5959a50a8e9c3635bd123">
+        <dex dex="D:\studioworkspace5\QKJR_Demo1(1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_90c0f3756d2e102f77835bddb70506b56db41e90\classes.dex" />
+    </item>
+
+</items>
